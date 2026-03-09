@@ -1,4 +1,4 @@
-# Jogo de Adivinhação em C 
+# Jogo de Adivinhação de números em C 
 
 Exibição do Menu:
 Usamos printf para exibir o menu principal com três opções: Iniciar jogo, Ver regras e Sair.
